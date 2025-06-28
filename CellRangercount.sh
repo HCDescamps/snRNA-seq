@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Sample IDs
-samples=(400 401 403 404 407 408 409 410)
+samples=(500 501 502 503 504 505 506 507)
 
 # Shared parameters
 transcriptome="/home/descamps/10X_genomics/SingleNucleus/refdata-gex-mm10-2020-A"
